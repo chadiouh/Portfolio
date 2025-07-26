@@ -27,6 +27,6 @@ Ouvert aux opportunités Data Scientist | Data Analyst | MLOps | Cloud Data | Co
 ---
 
 ### 🌍 Langues
-- Français : 🇫🇷 Natif  
-- Anglais : 🇬🇧 Courant  
-- Arabe : 🇲🇦 Intermédiaire
+- Français : Natif  
+- Anglais : Courant  
+- Arabe : Intermédiaire
